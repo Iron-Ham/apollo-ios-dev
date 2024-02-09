@@ -26,7 +26,7 @@ OPTIONS:
 ```
 
 ## Documentation Generator
-code
+
 ```
 OVERVIEW: Generate API reference documentation for apollo-ios.
 
